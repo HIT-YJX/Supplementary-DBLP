@@ -15,11 +15,10 @@ If any file is much smaller, the indexing for DBLP likely failed, and we would n
 
 ---
 
-First, please download the files I have attached:  
+First, please download the files:  
 
-- A brief guide `Supplementary.md` for re‑building the indexes,  
-- 4 scripts `DBLP-index-time*.sh` to run the experiment, and  
-- The `DBLP.tar.xz` archive for convenience.  
+- 4 scripts `DBLP-index-time*.sh` here to run the experiment, and  
+- The `DBLP.tar.xz` from "https://github.com/HIT-YJX/BCviz-datasets". 
 
 Then, the rebuild process are as follows.
 
@@ -102,6 +101,7 @@ Three new files "MEB-IndexTime.jpg", "MVB-IndexTime.jpg" and "MBB-IndexTime.jpg"
 
 
 #### If anything goes wrong, please feel free to contact me.
+
 
 
 
