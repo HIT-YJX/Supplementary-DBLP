@@ -9,7 +9,9 @@ If convenient, could you please verify the following file sizes?
 - **Dataset DBLP** (located in `~/BCviz/datasets/`) should be about **183.9 MB**.  
 - **Index files** `DBLP_*.txt` (i.e., `DBLP_MEB_BCviz.txt`, `DBLP_MEB_BCviz+.txt`, …, 9 files in total, located in `~/BCviz/Index-results/`) should each be around **13 MB**.
 
-If the sizes match, please let me know and ignore the rest of this document. 
+Please let me know (JianxiongYe@stu.hit.edu.cn) whether the sizes match.
+
+If the sizes match, ignore the rest of this document. 
 
 If any file is much smaller, the indexing for DBLP likely failed, and we would need to rebuild the indexes to update Figure 2. 
 
@@ -101,6 +103,7 @@ Three new files "MEB-IndexTime.jpg", "MVB-IndexTime.jpg" and "MBB-IndexTime.jpg"
 
 
 #### If anything goes wrong, please feel free to contact me.
+
 
 
 
